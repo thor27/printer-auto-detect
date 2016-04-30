@@ -1,2 +1,2 @@
 # printer-auto-detect
-Auto detect USB printers on Linux
+Simples script to Auto detect and install USB printers on Linux
